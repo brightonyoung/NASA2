@@ -1,0 +1,35 @@
+body {
+  width: 850px;
+  margin: 0 auto;
+}
+
+main {
+  margin: 0 auto;
+  height: 450px;
+  background-image: url("./Space.jpeg");
+  color: white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 50px;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+
+section {
+  display: flex;
+  height: 324px;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+article {
+  width: 278px;
+  height: 324px;
+  background-color: grey;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
